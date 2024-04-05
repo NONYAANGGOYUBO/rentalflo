@@ -46,6 +46,8 @@
             <img src="images/home.png" class=" pt-12 pl-96" alt="">
         </div>
 
+        <h1>hello world</h1>
+
    </main>
 
 </body>
